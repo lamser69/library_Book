@@ -29,3 +29,7 @@ Program prototype Aplikasi menggunakan bahasa <b>Flutter/Dart</b> berbasis mobil
 - Anggota 1 : 191111967 / Lamser Jonatan Sagala
 - Anggota 2 : 191112717 / Yonita Sianturi
 - Anggota 3 : 191113691 / Joy Rosdiati Simorangkir
+
+
+# Figma
+https://www.figma.com/file/EfasoqQ2yGfSh6tLHLMAY3/Tim-Wacana?node-id=36%3A106&t=eoq7lFJUekwKcI67-0
